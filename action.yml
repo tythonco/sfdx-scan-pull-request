@@ -1,4 +1,4 @@
-name: "Tython SFDX Scan Pull Request (Fork from mitchspano/sfdx-scan-pull-request)"
+name: "SFDX Scan Pull Request"
 description: "Executes SFDX Scanner on the scope of a pull request, translates the findings into in-line comments."
 inputs:
   base:
